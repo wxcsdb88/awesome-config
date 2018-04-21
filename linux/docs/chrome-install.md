@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu 16.04 install chrome"
-date:   2018-4-21 19:49:53
+date:   2018-04-21 19:49:53 -0800
 categories: linux
 description: install chrome for linux
 keywords: chrome
