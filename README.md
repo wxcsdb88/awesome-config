@@ -10,6 +10,7 @@
 ## common
 
 - [x] [git install and config](/common/git-base-install-config.md)
+- [x] [gitlab install and config](/common/gitlab-install-config.md)
 - [ ] [git command](/common/git-command.md)
 
 ## linux
