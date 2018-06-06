@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "linux common alias"
-date:   2018-06-23 22:30:53 -0800
+date:   2018-06-03 22:30:53
 categories: linux
 description: linux common alias
 keywords: config,linux

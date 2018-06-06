@@ -2,7 +2,7 @@
 layout: post
 title:  "Gitlab install and config with docker"
 date:   2018-04-23 23:27:15
-categories: git, tools
+categories: git tools
 description: gitlab install and config with docker
 keywords: git, vcs, gitlab
 author: wxcsdb88
@@ -17,6 +17,7 @@ author: wxcsdb88
 # 软件安装
 
 ## yum 镜像设置
+
 [仓库地址修改](https://www.cnblogs.com/renpingsheng/p/7845096.html)
 
 ```bash

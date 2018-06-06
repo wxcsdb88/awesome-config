@@ -64,6 +64,7 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
 >*apt* 方式 `sudo apt-get install git`
 
 ## mac
+
 `sudo brew install git`
 
 # git 配置
