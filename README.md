@@ -2,8 +2,8 @@
 
 ## directory info
 
-- [ ] common: common docs for dev
-- [ ] linux: for linux related, here use ubuntu!
+- [x] common: common docs for dev
+- [x] linux: for linux related, here use ubuntu!
 - [ ] windows: for windows related, here use win10!
 - [ ] mac: for mac related
 
@@ -18,5 +18,6 @@
 
 - [x] [chrome install for linux](/linux/docs/chrome-install.md)
 - [x] [alias for linux](/linux/docs/common-alias.md)
+- [x] **apt for linux** [14.04](/linux/apt/apt-sources-ubuntu-14.md), [16.04](/linux/apt/apt-sources-ubuntu-16.md), [18.04](/linux/apt/apt-sources-ubuntu-18.md)
 
 ## windows
